@@ -18,3 +18,8 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://img2.rtve.es/imagenes/multisenal-24/1361962728583.png" 
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-id="ARD" tvg-name="ARD" tvg-logo="https://de.wikipedia.org/wiki/ARD#/media/Datei:ARD_Logo_2019.svg" 
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:4,ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
