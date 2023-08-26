@@ -66,6 +66,13 @@ https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/algerie8.jpg" group-title="ALGERIA",TV8 EDHAKIRA
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="TVE 24H",TVE 24H
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/algerie8.jpg" group-title="ALGERIA",PELICULA
-https://sto070.akamai-video-content.com/tysxemopiw6oj6cdabxq3tkaeqxby3bj5qqblf2e7a2vetljnxoh2y447bsq/j0hnvv11ck1.2014.1080p.Cast.mp4
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/471/557/png-transparent-3-24-television-channel-el-33-24-horas-nick-jr-television-text-trademark.png" group-title="TVE 24H",TVE 24H
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Pluto Accion",Pluto Accion
+https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
+
+
