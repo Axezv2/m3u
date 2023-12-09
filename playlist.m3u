@@ -507,3 +507,39 @@ https://www.youtube.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&autop
 http://tinyurl.com/4r995jdn?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="News",ELahmad.Com
 https://i.imgur.com/N7O42VP.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema KSA
+https://daiconnect.com/live/hls/rotana/cinema-ksa/2a3e6cb000927329810a396f3a0ded55/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema Masr
+https://daiconnect.com/live/hls/rotana/cinemamasr/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png",Rotana Comedy
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wikidata.org/wiki/Q12213831#/media/File:Rotana_Classic_New_Logo.png",Rotana Classic
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png",Rotana Drama
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png",Rotana KhaleejiyaKSA
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402500.webp",Rotana LBC
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-clip/rotana-clip.png",Rotana Clip
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402619.webp",Rotana Al Resalah
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/d7kwbs.png",Rotana Dahk wa Bass
+https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/sydtelshasha.png",Rotana Sayedat Alshasha
+https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/romance.png",Rotana Romance
+https://daiconnect.com/live/hls/rotana/romance/.m3u8
