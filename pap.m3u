@@ -51,6 +51,13 @@ https://www.youtube.com/embed/live_stream?channel=UCdvWVsmQBROkgcGzVep73oA&autop
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/watania2.jpg?v=6" group-title="tunisia",Watania 2
 https://www.youtube.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&autoplay=1
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/La_1_%28Spanish_TV_channel%29#/media/File:Logo_TVE-1.svg",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://de.wikipedia.org/wiki/Telecinco#/media/Datei:Telecinco.svg",Telecinco
+https://directos.mitele.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1702757227~exp=1702757407~acl=/*~hmac=c57ca2032617c5e4f020f80bd1cf6331ed6b5cc67aa3fe40a3e9c16f9cc145bb
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema KSA
 https://daiconnect.com/live/hls/rotana/cinema-ksa/2a3e6cb000927329810a396f3a0ded55/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema Masr
