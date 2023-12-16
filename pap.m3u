@@ -44,6 +44,49 @@ https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/entv_algerie.jpg" group-title="ALGERIA",ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/tunisia_watania1.jpg?v=6" group-title="tunisia",Watania 1
+https://www.youtube.com/embed/live_stream?channel=UCdvWVsmQBROkgcGzVep73oA&autoplay=1
+
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/watania2.jpg?v=6" group-title="tunisia",Watania 2
+https://www.youtube.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&autoplay=1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema KSA
+https://daiconnect.com/live/hls/rotana/cinema-ksa/2a3e6cb000927329810a396f3a0ded55/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema Masr
+https://daiconnect.com/live/hls/rotana/cinemamasr/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png",Rotana Comedy
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wikidata.org/wiki/Q12213831#/media/File:Rotana_Classic_New_Logo.png",Rotana Classic
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png",Rotana Drama
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png",Rotana KhaleejiyaKSA
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402500.webp",Rotana LBC
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-clip/rotana-clip.png",Rotana Clip
+https://rotananet.hibridcdn.net/rotana/clip_abr/rotana/clip_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402619.webp",Rotana Al Resalah
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/d7kwbs.png",Rotana Dahk wa Bass
+https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/sydtelshasha.png",Rotana Sayedat Alshasha
+https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/romance.png",Rotana Romance
+https://daiconnect.com/live/hls/rotana/romance/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="TVE 24H",TVE 24H
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
@@ -54,6 +97,7 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Pluto Accion",Pluto Accion
 https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 channel-id="pluto-6304f530440dc90007f514d3" tvg-id="6304f530440dc90007f514d3" tvg-chno="44" tvg-logo="https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , Poirot & Miss Marple
 https://i.mjh.nz/PlutoTV/6304f530440dc90007f514d3-alt.m3u8
