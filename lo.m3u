@@ -6,3 +6,6 @@ https://ignores.top/js/barcelona-vs-paris-saint-germain/5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Khaled ES" tvg-name="Khaled tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg",Khaled
 https://ignores.top/js/barcelona-vs-paris-saint-germain/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Khaled ES MOVI" tvg-name="Khaled tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg",Khaled
+https://a70.azplay.me/hls/streama220638/index.m3u8?cst=49e26ac571a05799c0acd7f52d5a98a9
