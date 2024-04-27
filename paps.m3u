@@ -68,7 +68,7 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema KSA
-https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1711754525~h=f3c11b4b133a51bc57070df300e001af/rotana/cinema_1080p/chunks.m3u8
+https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1714258956~h=17168580e353439b84ec495880ee795d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema Masr
 https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1711754908~h=342b3cb660ef7a4c6dc71d667eb406aa/rotana/cinemamasr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png",Rotana Comedy
