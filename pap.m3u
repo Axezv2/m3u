@@ -1,2 +1,16 @@
-#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg",MBC 5
-https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1711754525~h=f3c11b4b133a51bc57070df300e001af/rotana/cinema_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema KSA
+https://rotananet.hibridcdn.net/rotana/cinema_abr/token=p=50~e=1714258956~h=17168580e353439b84ec495880ee795d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema Masr
+https://rotananet.hibridcdn.net/rotana/cinemamasr_abr/token=p=54~e=1714263314~h=ea59ae7ac2bd44152f25167584cce292/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png",Rotana Comedy
+https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1714263588~h=75cfcf5ae0f24e1427499af72988c54f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.wikidata.org/wiki/Q12213831#/media/File:Rotana_Classic_New_Logo.png",Rotana Classic
+https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1714263866~h=6463307d7fc99772d58b8517c3217ab7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png",Rotana Drama
+https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1714263316~h=e40bb3a7b2df5390c630c3647ca67029/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png",Rotana KhaleejiyaKSA
+https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1714263495~h=c71fdf9b5b1290efd86a6421a52fdec4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402500.webp",Rotana LBC
+https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1714264060~h=b08d7af906267a242c9f9d75f74b80a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-clip/rotana-clip.png",Rotana Clip
+https://rotananet.hibridcdn.net/rotana/clip_abr/token=p=48~e=1714264028~h=aa02ef6de5da47ecf52b7300e8e576e7/playlist.m3u8
